@@ -1,2 +1,3 @@
 print("Hello")
-print(print("New line")
+print("New line")
+print("444")
